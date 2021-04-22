@@ -69,6 +69,7 @@ const Evideo = () => {
             </div>
           </div>
         </div>
+
         <div className='wrapper'>
           <div className='thumbnails'>
             <div className='thumbnails-item'>
@@ -89,6 +90,7 @@ const Evideo = () => {
             </div>
           </div>
         </div>
+
         <div className='wrapper'>
           <div className='thumbnails'>
             <div className='thumbnails-item'>

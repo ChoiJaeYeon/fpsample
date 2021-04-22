@@ -1,11 +1,11 @@
 import React from 'react';
 import './scss/Logo.scss';
-import Nav from './Nav';
+import Navi from './Navi.js';
 
 const Logo = ({ children }) => {
   return (
     <div className='Logo_Head'>
-      <Nav></Nav>
+      <Navi></Navi>
       <div className='Logo_Body'>
         <div className='Logo_Top'>
           <div>
